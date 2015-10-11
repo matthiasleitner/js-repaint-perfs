@@ -3,7 +3,7 @@
   var list = [
     { type: 'todo', id: 'aurelia', label: 'DBMON Aurelia', url: '#' },
     { type: 'naive', id: 'ember', url: './ember', label: 'DBMON Ember' },
-    { type: 'naive', id: 'ember glimmer', url: './ember', label: 'DBMON Ember' },
+    { type: 'naive', id: 'ember-glimmer', url: './ember', label: 'DBMON Ember 1.13.10 (Glimmer)' },
     { type: 'naive', id: 'angular', url: './angular', label: 'DBMON Angular' },
     { type: 'naive', id: 'angular-light', url: './angular-light', label: 'DBMON Angular Light' },
     { type: 'naive', id: 'angular2', url: './angular2', label: 'DBMON Angular 2.0 Alpha' },
